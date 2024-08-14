@@ -1,0 +1,20 @@
+# Ignorar executáveis gerados pelo rustc
+*.exe
+*.exe.*
+*.dll
+*.dylib
+*.so
+
+# Ignorar arquivos objeto
+*.o
+*.obj
+
+# Ignorar binários e arquivos compilados
+*.rlib
+*.rustc
+hello_rust
+hello_interactive
+check_number
+
+# Ignorar o diretório target gerado pelo Cargo (se usar Cargo)
+target/
