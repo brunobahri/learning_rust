@@ -19,5 +19,6 @@ linked_list
 simple_queue
 binary_search
 
+
 # Ignorar o diretório target gerado pelo Cargo (se usar Cargo)
 target/
