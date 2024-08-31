@@ -13,6 +13,7 @@ fn busca_binaria(lista: &[i32], alvo: i32) -> Option<usize> {
       }
   }
 
+  
   None
 }
 
