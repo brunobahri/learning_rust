@@ -20,6 +20,7 @@ impl ListaEncadeada {
         ListaEncadeada { cabeca: None }
     }
 
+    
     // Adiciona um novo nó ao início da lista
     fn adicionar(&mut self, valor: i32) {
         let novo_no = Rc::new(RefCell::new(Node {
