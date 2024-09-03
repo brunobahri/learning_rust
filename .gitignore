@@ -18,6 +18,9 @@ check_number
 linked_list
 simple_queue
 binary_search
+doubly_linked_list
+binary_search_tree
+max_heap
 
 
 
