@@ -87,6 +87,7 @@ impl ArvoreBinaria {
     }
 }
 
+
 // Implementa a exibição da árvore em ordem
 impl Display for ArvoreBinaria {
     fn fmt(&self, f: &mut Formatter<'_>) -> fmt::Result {
