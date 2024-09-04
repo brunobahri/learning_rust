@@ -26,3 +26,4 @@ fn main() {
       None => println!("Elemento {} não encontrado na lista.", alvo),
   }
 }
+
