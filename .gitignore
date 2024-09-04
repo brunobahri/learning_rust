@@ -24,5 +24,6 @@ max_heap
 
 
 
+
 # Ignorar o diretório target gerado pelo Cargo (se usar Cargo)
 target/
