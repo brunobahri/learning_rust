@@ -41,6 +41,7 @@ impl ListaEncadeada {
     }
 }
 
+
 fn main() {
     let mut lista = ListaEncadeada::nova();
 
